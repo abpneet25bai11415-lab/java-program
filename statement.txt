@@ -1,0 +1,15 @@
+# Project Statement
+
+## Typing Speed Test
+
+The **Typing Speed Test** is a simple Java-based program designed to measure a user's typing speed and accuracy.
+
+The program displays a sentence that the user has to type. It records the time taken to complete the sentence and calculates the typing speed in **Words Per Minute (WPM)**. It also compares the typed text with the original sentence to calculate the user's typing accuracy.
+
+The main purpose of this project is to practice Java programming concepts such as **strings, user input, loops, conditional statements, character comparison, mathematical calculations, and time measurement**.
+
+This project can be further improved by adding multiple sentences, timed modes, a graphical user interface, score tracking, and a leaderboard.
+ 
+
+by Abpneet singh
+25BAI11415
